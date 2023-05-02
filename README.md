@@ -41,6 +41,9 @@ Screen Studio makes it easy to create beautiful screen recordings in minutes. Pa
 
 - Code using Flutter 3.3 with ❤️ by [Abdul Aziz Ahwan](https://youtube.com/@abdulazizahwan)
 
+**Design Credit**
+- Designed using Figma by [Rendy Vickriansyah](https://www.figma.com/community/file/992789948125883979)
+
 ### Flutter UI Real Estate Home Rent App UI Design with Drawer Animation (Figma to Flutter)
 
 [![Flutter UI Real Estate Home Rent App UI Design with Drawer Animation (Figma to Flutter)](/img-ui.png)](https://youtube.com/@abdulazizahwan)
